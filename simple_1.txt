@@ -1,1 +1,5 @@
 Hi, this is sample file to test git hub repository
+.
+.
+.
+This line is newly added
